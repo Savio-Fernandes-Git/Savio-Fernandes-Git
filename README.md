@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Savio-Fernandes-Git
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Dotnet core and Microservices
+- 🌱 I’m currently learning .NET core and Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me savio.f.tech@gmail.com
 
