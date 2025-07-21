@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-stack development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me savio.f.tech@gmail.com
+- 📫 How to reach me ssferns13@gmail.com
 
 <!---
 Savio-Fernandes-Git/Savio-Fernandes-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
